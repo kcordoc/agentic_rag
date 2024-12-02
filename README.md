@@ -24,7 +24,7 @@ A fully custom chatbot built with Agentic RAG (Retrieval-Augmented Generation), 
 ## Project Structure
 
 ```
-agentic_rag_chat/
+agentic_rag/
 ├── backend/
 │   ├── embeddings.py    # Embedding and similarity functions
 │   ├── rag_engine.py    # Core RAG implementation
@@ -46,8 +46,8 @@ agentic_rag_chat/
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/agentic_rag_chat.git
-cd agentic_rag_chat
+git clone https://github.com/AndrewNgo-ini/agentic_rag.git
+cd agentic_rag
 ```
 
 2. Create and activate a virtual environment (recommended):
